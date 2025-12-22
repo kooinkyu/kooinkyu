@@ -80,5 +80,5 @@ for real-world applications.
 ---
 
 ## 📬 Contact
-- 📧 Email: rndlsrb7@hufs.ac.kr  
+- 📧 Email: rndlsrb7@gmail.com 
 - 🐱 GitHub: https://github.com/kooinkyu
